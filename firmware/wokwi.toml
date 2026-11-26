@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/SmartAgricultureRobot.ino.bin"
+elf = "build/SmartAgricultureRobot.ino.elf"
